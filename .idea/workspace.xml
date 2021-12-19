@@ -1,7 +1,243 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdd9547b-cbf3-4ef2-b7d1-b828664b7e07" name="Changes" comment="draft templates" />
+    <list default="true" id="cdd9547b-cbf3-4ef2-b7d1-b828664b7e07" name="Changes" comment="back-end templates">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/responsive.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/ui.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/css/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/css/all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/css/brands.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/css/brands.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/css/fontawesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/css/fontawesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/css/regular.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/css/regular.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/css/solid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/css/solid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/css/svg-with-js.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/css/svg-with-js.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/css/v4-shims.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/css/v4-shims.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/font.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/avatar1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/avatar2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/avatar3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/ad-sm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/ad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/banner-item1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/banner-item2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/banner-item3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/banner1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/banner2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/banner3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/banner4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/banner5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/banner6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/banner7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/banner8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/banner9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/slide-lg-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/slide-lg-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/slide-lg-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/slide1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/slide2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banners/slide3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/AU.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/AU@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/CN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/CN@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/DE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/DE@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/GB.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/GB@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/IN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/IN@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/RU.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/RU@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/TR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/TR@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/US.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/US@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/UZ.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/flags/UZ@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/pay-american-ex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/pay-bank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/pay-mastercard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/pay-visa-el.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/pay-visa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/stars-active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/starts-disable.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/items/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/items/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/items/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/items/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/items/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/items/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/items/15-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/items/15-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/items/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/items/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/items/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/items/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/items/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/items/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/items/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/items/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/items/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/misc/appstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/misc/payments.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/misc/playmarket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery-2.0.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/_variables-custom.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_toasts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_deprecate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/utilities/_overflow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/utilities/_stretched-link.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap-assets/vendor/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/responsive.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/_rtl-override.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/components/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/components/_cards-item.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/components/_elements.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/components/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/components/_items.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/components/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/components/_menu.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/components/_plugin-styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/helpers/_bg.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/helpers/_helper-classes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/helpers/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/helpers/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/pages/_page-account.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/pages/_page-base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/pages/_page-detail.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/pages/_page-home.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/pages/_page-listing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/pages/_page-order.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/sections/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/sections/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui-assets/sections/_sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ui.scss" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639909479125</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="back-end templates">
+      <created>1639910454172</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1639910454172</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +409,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init.py" />
     <MESSAGE value="draft templates" />
-    <option name="LAST_COMMIT_MESSAGE" value="draft templates" />
+    <MESSAGE value="back-end templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="back-end templates" />
   </component>
 </project>
